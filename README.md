@@ -1,4 +1,7 @@
- 
+ <p align="center">
+  <img src="" alt="Razia's GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Raziakhatoon</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
