@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="" alt="Razia's GitHub Banner" width="100%" />
+  <img src="https://github.com/RAZIAKHATOON/RAZIAKHATOON/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png" alt="Razia's GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Raziakhatoon</h1>
